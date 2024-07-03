@@ -55,7 +55,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"
-		"font"			"BHStandard18"
+		"font"			"BHNumbers20"
 		"fgcolor"		"Health Normal"
 	}
 
@@ -72,7 +72,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"
-		"font"			"BHStandard18"
+		"font"			"BHNumbers20"
 		"fgcolor"		"TransparentBlack"
 
 		"pin_to_sibling"		"TargetHealthValue"

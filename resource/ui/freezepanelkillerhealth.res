@@ -48,11 +48,11 @@
 		"ypos"			"3"
 		"zpos"			"5"
 		"wide"			"26"
-		"tall"			"26"
+		"tall"			"46"
 		"visible"		"1"
 		"enabled"		"1"
 		"textAlignment"	"center"
-		"font"			"HudFontMediumSmall"
+		"font"			"BHNumbers28"
 		"labeltext"		"%Health%"
 	}
 
@@ -64,11 +64,11 @@
 		"ypos"			"4"
 		"zpos"			"5"
 		"wide"			"26"
-		"tall"			"26"
+		"tall"			"46"
 		"visible"		"1"
 		"enabled"		"1"
 		"textAlignment"	"center"
-		"font"			"HudFontMediumSmall"
+		"font"			"BHNumbers28"
 		"fgcolor"		"TransparentBlack"
 		"labeltext"		"%Health%"
 	}

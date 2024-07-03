@@ -880,7 +880,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bebas"
+				"name"			"Trebuchet MS"
 				"tall"			"16"
 				"weight"		"500"
 				"additive"		"0"
