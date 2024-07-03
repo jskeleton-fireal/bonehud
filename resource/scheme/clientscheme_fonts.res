@@ -137,7 +137,7 @@ Scheme
 			"1"
 			{
 				"name"			"Trebuchet MS"
-				"tall"			"20"
+				"tall"			"24"
 				"additive"		"0"
 				"antialias"		"0"
 			}
@@ -147,7 +147,7 @@ Scheme
 			"1"
 			{
 				"name"			"Trebuchet MS"
-				"tall"			"18"
+				"tall"			"22"
 				"additive"		"0"
 				"antialias"		"0"
 			}
@@ -157,7 +157,7 @@ Scheme
 			"1"
 			{
 				"name"			"Trebuchet MS"
-				"tall"			"16"
+				"tall"			"20"
 				"additive"		"0"
 				"antialias"		"0"
 			}
@@ -167,7 +167,7 @@ Scheme
 			"1"
 			{
 				"name"			"Trebuchet MS"
-				"tall"			"14"
+				"tall"			"18"
 				"additive"		"0"
 				"antialias"		"0"
 			}
@@ -177,7 +177,7 @@ Scheme
 			"1"
 			{
 				"name"			"Trebuchet MS"
-				"tall"			"12"
+				"tall"			"16"
 				"additive"		"0"
 				"antialias"		"0"
 			}
@@ -187,7 +187,7 @@ Scheme
 			"1"
 			{
 				"name"			"Trebuchet MS"
-				"tall"			"10"
+				"tall"			"14"
 				"additive"		"0"
 				"antialias"		"0"
 			}
@@ -421,7 +421,7 @@ Scheme
 				"tall"			"6"
 				"weight"		"500"
 				"additive"		"0"
-				"antialias" 	"1"
+				"antialias" 	"0"
 			}
 		}
 
@@ -499,7 +499,7 @@ Scheme
 				"tall"			"48"
 				"weight"		"500"
 				"additive"		"0"
-				"antialias" 	"1"
+				"antialias" 	"0"
 				"yres"			"1024 1199"
 			}
 			"5"
@@ -508,7 +508,7 @@ Scheme
 				"tall"			"52"
 				"weight"		"500"
 				"additive"		"0"
-				"antialias" 	"1"
+				"antialias" 	"0"
 				"yres"			"1200 10000"
 			}
 		}
@@ -520,7 +520,7 @@ Scheme
 				"tall"			"44"
 				"weight"		"500"
 				"additive"		"0"
-				"antialias" 	"1"
+				"antialias" 	"0"
 			}
 		}
 		"HudFontBiggerBold"
@@ -542,7 +542,7 @@ Scheme
 				"tall"			"35"
 				"weight"		"500"
 				"additive"		"0"
-				"antialias" 	"1"
+				"antialias" 	"0"
 			}
 		}
 		"HudFontMediumBig"
@@ -583,10 +583,10 @@ Scheme
 			"1"
 			{
 				"name"			"Trebuchet MS"
-				"tall"			"20"
+				"tall"			"22"
 				"weight"		"500"
 				"additive"		"0"
-				"antialias" 	"1"
+				"antialias" 	"0"
 			}
 		}
 		"HudFontMediumBold"
@@ -594,10 +594,10 @@ Scheme
 			"1"
 			{
 				"name"			"Trebuchet MS"
-				"tall"			"24"
+				"tall"			"22"
 				"weight"		"500"
 				"additive"		"0"
-				"antialias" 	"1"
+				"antialias" 	"0"
 			}
 		}
 		"HudFontMediumSmallBold"
@@ -605,10 +605,10 @@ Scheme
 			"1"
 			{
 				"name"			"Trebuchet MS"
-				"tall"			"18"
+				"tall"			"22"
 				"weight"		"500"
 				"additive"		"0"
-				"antialias" 	"1"
+				"antialias" 	"0"
 			}
 		}
 		"HudFontMediumSmall"
@@ -616,10 +616,10 @@ Scheme
 			"1"
 			{
 				"name"			"Trebuchet MS"
-				"tall"			"18"
+				"tall"			"22"
 				"weight"		"500"
 				"additive"		"0"
-				"antialias" 	"1"
+				"antialias" 	"0"
 			}
 		}
 		"HudFontMediumSmallSecondary"
@@ -627,10 +627,10 @@ Scheme
 			"1"
 			{
 				"name"			"Trebuchet MS"
-				"tall"			"18"
+				"tall"			"22"
 				"weight"		"500"
 				"additive"		"0"
-				"antialias" 	"1"
+				"antialias" 	"0"
 			}
 		}
 		"HudFontSmall"
@@ -638,10 +638,10 @@ Scheme
 			"1"
 			{
 				"name"			"Trebuchet MS"
-				"tall"			"14"
+				"tall"			"18"
 				"weight"		"500"
 				"additive"		"0"
-				"antialias" 	"1"
+				"antialias" 	"0"
 			}
 		}
 		"HudFontSmallishBold"
@@ -649,10 +649,10 @@ Scheme
 			"1"
 			{
 				"name"			"Trebuchet MS"
-				"tall"			"16"
+				"tall"			"18"
 				"weight"		"500"
 				"additive"		"0"
-				"antialias" 	"1"
+				"antialias" 	"0"
 			}
 		}
 		"HudFontSmallBold"
@@ -660,10 +660,10 @@ Scheme
 			"1"
 			{
 				"name"			"Trebuchet MS"
-				"tall"			"14"
+				"tall"			"18"
 				"weight"		"500"
 				"additive"		"0"
-				"antialias" 	"1"
+				"antialias" 	"0"
 			}
 		}
 		"HudFontSmallBoldShadow"
@@ -671,10 +671,10 @@ Scheme
 			"1"
 			{
 				"name"			"Trebuchet MS"
-				"tall"			"14"
+				"tall"			"18"
 				"weight"		"500"
 				"additive"		"0"
-				"antialias" 	"1"
+				"antialias" 	"0"
 				"dropshadow"	"1"
 			}
 		}
@@ -683,10 +683,10 @@ Scheme
 			"1"
 			{
 				"name"			"Trebuchet MS"
-				"tall"			"12"
+				"tall"			"16"
 				"weight"		"500"
 				"additive"		"0"
-				"antialias" 	"1"
+				"antialias" 	"0"
 			}
 		}
 		"HudFontSmallestShadow"
@@ -694,10 +694,10 @@ Scheme
 			"1"
 			{
 				"name"			"Trebuchet MS"
-				"tall"			"12"
+				"tall"			"16"
 				"weight"		"500"
 				"additive"		"0"
-				"antialias" 	"1"
+				"antialias" 	"0"
 				"dropshadow"	"1"
 			}
 		}
@@ -706,10 +706,10 @@ Scheme
 			"1"
 			{
 				"name"			"Trebuchet MS"
-				"tall"			"12"
+				"tall"			"16"
 				"weight"		"500"
 				"additive"		"0"
-				"antialias" 	"1"
+				"antialias" 	"0"
 			}
 		}
 
@@ -744,7 +744,7 @@ Scheme
 				"tall"			"16"
 				//"weight"		"500"
 				"additive"		"0"
-				"antialias" 	"1"
+				"antialias" 	"0"
 			}
 		}
 		"FontStorePrice"
@@ -755,7 +755,7 @@ Scheme
 				"tall"			"10"
 				"weight"		"0"
 				"additive"		"0"
-				"antialias" 	"1"
+				"antialias" 	"0"
 			}
 		}
 		"FontStoreOriginalPrice"
@@ -766,7 +766,7 @@ Scheme
 				"tall"			"9"
 				"weight"		"0"
 				"additive"		"0"
-				"antialias" 	"1"
+				"antialias" 	"0"
 			}
 		}
 		"FontStorePriceSmall"
@@ -777,7 +777,7 @@ Scheme
 				"tall"			"9"
 				"weight"		"0"
 				"additive"		"0"
-				"antialias" 	"1"
+				"antialias" 	"0"
 			}
 		}
 		"FontStorePromotion"
@@ -788,7 +788,7 @@ Scheme
 				"tall"			"12"
 				"weight"		"400"
 				"additive"		"0"
-				"antialias" 	"1"
+				"antialias" 	"0"
 			}
 		}
 
@@ -800,7 +800,7 @@ Scheme
 				"tall"			"12"
 				"weight"		"500"
 				"additive"		"0"
-				"antialias" 	"1"
+				"antialias" 	"0"
 			}
 		}
 
@@ -872,7 +872,7 @@ Scheme
 				"tall"			"18"
 				"weight"		"500"
 				"additive"		"0"
-				"antialias" 	"1"
+				"antialias" 	"0"
 			}
 		}
 
@@ -884,7 +884,7 @@ Scheme
 				"tall"			"16"
 				"weight"		"500"
 				"additive"		"0"
-				"antialias" 	"1"
+				"antialias" 	"0"
 			}
 		}
 
@@ -896,7 +896,7 @@ Scheme
 				"tall"			"8"
 				"weight"		"500"
 				"additive"		"0"
-				"antialias" 	"1"
+				"antialias" 	"0"
 			}
 		}
 
@@ -908,7 +908,7 @@ Scheme
 				"tall"			"9"
 				"weight"		"500"
 				"additive"		"0"
-				"antialias" 	"1"
+				"antialias" 	"0"
 			}
 		}
 		"ClockSubTextSuddenDeath"
@@ -919,7 +919,7 @@ Scheme
 				"tall"			"8"
 				"weight"		"500"
 				"additive"		"0"
-				"antialias" 	"1"
+				"antialias" 	"0"
 			}
 		}
 		"ClockSubTextTiny"
@@ -930,7 +930,7 @@ Scheme
 				"tall"			"8"
 				"weight"		"500"
 				"additive"		"0"
-				"antialias" 	"1"
+				"antialias" 	"0"
 			}
 		}
 
@@ -941,7 +941,7 @@ Scheme
 				"name"			"Trebuchet MS"
 				"tall"			"15"
 				"weight"		"700"
-				"antialias" 	"1"
+				"antialias" 	"0"
 				"yres"			"1 599"
 				"range"			"0x0000 0x017F"
 				"additive"		"1"
@@ -951,7 +951,7 @@ Scheme
 				"name"			"Trebuchet MS"
 				"tall"			"15"
 				"weight"		"700"
-				"antialias" 	"1"
+				"antialias" 	"0"
 				"yres"			"600 767"
 				"range"			"0x0000 0x017F"
 				"additive"		"1"
@@ -961,7 +961,7 @@ Scheme
 				"name"			"Trebuchet MS"
 				"tall"			"18"
 				"weight"		"900"
-				"antialias" 	"1"
+				"antialias" 	"0"
 				"yres"			"768 1023"
 				"range"			"0x0000 0x017F"
 			}
@@ -970,7 +970,7 @@ Scheme
 				"name"			"Trebuchet MS"
 				"tall"			"21"
 				"weight"		"900"
-				"antialias" 	"1"
+				"antialias" 	"0"
 				"yres"			"1024 1199"
 				"range"			"0x0000 0x017F"
 			}
@@ -979,7 +979,7 @@ Scheme
 				"name"			"Trebuchet MS"
 				"tall"			"24"
 				"weight"		"1000"
-				"antialias" 	"1"
+				"antialias" 	"0"
 				"yres"			"1200 10000"
 				"range"			"0x0000 0x017F"
 			}
@@ -1005,7 +1005,7 @@ Scheme
 				"tall"  		"28"
 				"weight" 		"0"
 				"additive" 		"0"
-				"antialias" 	"1"
+				"antialias" 	"0"
 			}
 		}
 
@@ -1017,7 +1017,7 @@ Scheme
 				"tall"  		"28"
 				"weight" 		"0"
 				"additive" 		"1"
-				"antialias" 	"1"
+				"antialias" 	"0"
 			}
 		}
 
@@ -1029,7 +1029,7 @@ Scheme
 				"tall"			"90"
 				"weight"		"900"
 				"range"			"0x0000 0x007F"
-				"antialias" 	"1"
+				"antialias" 	"0"
 				"additive"		"0"
 			}
 		}
@@ -1042,7 +1042,7 @@ Scheme
 				"tall"  		"28"
 				"weight" 		"0"
 				"additive" 		"1"
-				"antialias" 	"1"
+				"antialias" 	"0"
 			}
 			"2"
 			{
@@ -1050,7 +1050,7 @@ Scheme
 				"tall"  		"28"
 				"weight" 		"0"
 				"additive" 		"1"
-				"antialias" 	"1"
+				"antialias" 	"0"
 			}
 		}
 
@@ -1060,7 +1060,7 @@ Scheme
 			{
 				"name"			"Trebuchet MS"
 				"tall"			"24"
-				"antialias" 	"1"
+				"antialias" 	"0"
 				"weight"		"500"
 				"range"			"0x0000 0x017F"
 			}
@@ -1071,7 +1071,7 @@ Scheme
 			{
 				"name"			"Trebuchet MS"
 				"tall"			"24"
-				"antialias" 	"1"
+				"antialias" 	"0"
 				"weight"		"500"
 				"italic"		"1"
 				"range"			"0x0000 0x017F"
@@ -1083,7 +1083,7 @@ Scheme
 			{
 				"name"			"Trebuchet MS"
 				"tall"			"24"
-				"antialias" 	"1"
+				"antialias" 	"0"
 				"weight"		"900"
 				"range"			"0x0000 0x017F"
 			}
@@ -1094,7 +1094,7 @@ Scheme
 			{
 				"name"			"Trebuchet MS"
 				"tall"			"24"
-				"antialias" 	"1"
+				"antialias" 	"0"
 				"weight"		"900"
 				"italic"		"1"
 				"range"			"0x0000 0x017F"
@@ -1106,7 +1106,7 @@ Scheme
 			{
 				"name"			"Trebuchet MS"
 				"tall"			"16"
-				"antialias" 	"1"
+				"antialias" 	"0"
 				"weight"		"900"
 				"range"			"0x0000 0x017F"
 			}
@@ -1141,7 +1141,7 @@ Scheme
 			{
 				"name"			"Trebuchet MS"
 				"tall"			"24"
-				"antialias" 	"1"
+				"antialias" 	"0"
 				"weight"		"500"
 			}
 		}
@@ -1151,7 +1151,7 @@ Scheme
 			{
 				"name"			"Trebuchet MS"
 				"tall"			"12"
-				"antialias" 	"1"
+				"antialias" 	"0"
 				"weight"		"500"
 			}
 		}
@@ -1161,7 +1161,7 @@ Scheme
 			{
 				"name"			"Trebuchet MS"
 				"tall"			"12"
-				"antialias" 	"1"
+				"antialias" 	"0"
 				"weight"		"500"
 			}
 		}
@@ -1174,7 +1174,7 @@ Scheme
 				"tall"			"13"
 				"weight"		"800"
 				"additive"		"0"
-				"antialias" 	"1"
+				"antialias" 	"0"
 			}
 		}
 
@@ -1206,7 +1206,7 @@ Scheme
 			{
 				"name"			"Trebuchet MS"
 				"tall"			"24"
-				"antialias" 	"1"
+				"antialias" 	"0"
 				"custom"		"1" [$OSX]
 				"weight"		"500"
 			}
@@ -1232,7 +1232,7 @@ Scheme
 				"tall"			"6"
 				"weight"		"400"
 				"additive"		"0"
-				"antialias" 	"1"
+				"antialias" 	"0"
 			}
 		}
 		"ScoreboardVerySmall"
@@ -1243,7 +1243,7 @@ Scheme
 				"tall"			"10"
 				"weight"		"400"
 				"additive"		"0"
-				"antialias" 	"1"
+				"antialias" 	"0"
 			}
 		}
 		"ScoreboardSmall"
@@ -1265,7 +1265,7 @@ Scheme
 				"tall"			"10"
 				"weight"		"500"
 				"range"			"0x0000 0x007F"
-				"antialias" 	"1"
+				"antialias" 	"0"
 				"additive"		"0"
 			}
 		}
@@ -1277,7 +1277,7 @@ Scheme
 				"tall"			"20"
 				"weight"		"500"
 				"range"			"0x0000 0x007F"
-				"antialias" 	"1"
+				"antialias" 	"0"
 				"additive"		"0"
 			}
 		}
@@ -1289,7 +1289,7 @@ Scheme
 				"tall"			"20"
 				"weight"		"500"
 				"range"			"0x0000 0x007F"
-				"antialias" 	"1"
+				"antialias" 	"0"
 				"additive"		"0"
 			}
 		}
@@ -1301,7 +1301,7 @@ Scheme
 				"tall"			"14"
 				"weight"		"500"
 				"range"			"0x0000 0x007F"
-				"antialias" 	"1"
+				"antialias" 	"0"
 				"additive"		"0"
 			}
 		}
@@ -1325,7 +1325,7 @@ Scheme
 				"tall"			"34"
 				"weight"		"500"
 				"range"			"0x0000 0x007F"
-				"antialias" 	"1"
+				"antialias" 	"0"
 				"additive"		"0"
 			}
 		}
@@ -1337,7 +1337,7 @@ Scheme
 				"tall"			"36"
 				"weight"		"500"
 				"additive"		"0"
-				"antialias" 	"1"
+				"antialias" 	"0"
 			}
 		}
 		"ScoreboardTeamScore"
@@ -1358,7 +1358,7 @@ Scheme
 				"range" 		"0x0000 0x00FF"
 				"weight"		"400"
 				"yres"			"600 767"
-				"antialias" 	"1"
+				"antialias" 	"0"
 			}
 			"3"
 			{
@@ -1367,7 +1367,7 @@ Scheme
 				"range" 		"0x0000 0x00FF"
 				"weight"		"400"
 				"yres"			"768 1023"
-				"antialias" 	"1"
+				"antialias" 	"0"
 			}
 			"4"
 			{
@@ -1376,7 +1376,7 @@ Scheme
 				"range" 		"0x0000 0x00FF"
 				"weight"		"400"
 				"yres"			"1024 1199"
-				"antialias" 	"1"
+				"antialias" 	"0"
 			}
 			"5"
 			{
@@ -1385,7 +1385,7 @@ Scheme
 				"range" 		"0x0000 0x00FF"
 				"weight"		"400"
 				"yres"			"1200 10000"
-				"antialias" 	"1"
+				"antialias" 	"0"
 			}
 		}
 
@@ -1397,7 +1397,7 @@ Scheme
 				"tall"			"36"
 				"weight"		"500"
 				"range"			"0x0000 0x007F"
-				"antialias" 	"1"
+				"antialias" 	"0"
 				"additive"		"0"
 			}
 		}
@@ -1420,7 +1420,7 @@ Scheme
 				"tall"			"20"
 				"weight"		"400"
 				"additive"		"0"
-				"antialias" 	"1"
+				"antialias" 	"0"
 			}
 		}
 
@@ -1432,7 +1432,7 @@ Scheme
 				"tall"			"14"
 				"weight"		"400"
 				"additive"		"0"
-				"antialias" 	"1"
+				"antialias" 	"0"
 			}
 		}
 
@@ -1455,7 +1455,7 @@ Scheme
 				"tall"			"7"
 				"weight"		"400"
 				"additive"		"0"
-				"antialias" 	"1"
+				"antialias" 	"0"
 			}
 		}
 
@@ -1467,7 +1467,7 @@ Scheme
 				"tall"			"10"
 				"weight"		"400"
 				"additive"		"0"
-				"antialias" 	"1"
+				"antialias" 	"0"
 			}
 		}
 
@@ -1634,7 +1634,7 @@ Scheme
 				"weight"		"500"
 				"range"			"0x0000 0x017F"
 				"TextColor"		"Black"
-				"antialias" 	"1"
+				"antialias" 	"0"
 			}
 		}
 		"CapPlayerFontSmall"
@@ -1646,7 +1646,7 @@ Scheme
 				"weight"		"500"
 				"range"			"0x0000 0x017F"
 				"TextColor"		"Black"
-				"antialias" 	"1"
+				"antialias" 	"0"
 			}
 		}
 
@@ -1658,7 +1658,7 @@ Scheme
 				"tall"			"8"
 				"weight"		"0"
 				"additive"		"1"
-				"antialias" 	"1"
+				"antialias" 	"0"
 			}
 		}
 		"TFFontMedium"
@@ -1669,7 +1669,7 @@ Scheme
 				"tall"			"9"
 				"weight"		"400"
 				"additive"		"0"
-				"antialias" 	"1"
+				"antialias" 	"0"
 			}
 		}
 
@@ -1682,7 +1682,7 @@ Scheme
 				"tall"			"9"		[$OSX]
 				"weight"		"800"
 				"additive"		"0"
-				"antialias" 	"1"
+				"antialias" 	"0"
 			}
 		}
 
@@ -1786,7 +1786,7 @@ Scheme
 				"tall"			"36"
 				"weight"		"500"
 				"additive"		"0"
-				"antialias" 	"1"
+				"antialias" 	"0"
 			}
 		}
 		"TeamMenu"
@@ -1797,7 +1797,7 @@ Scheme
 				"tall"			"12"
 				"weight"		"600"
 				"additive"		"0"
-				"antialias" 	"1"
+				"antialias" 	"0"
 			}
 		}
 
@@ -1809,7 +1809,7 @@ Scheme
 				"tall"			"18"
 				"weight"		"400"
 				"additive"		"0"
-				"antialias" 	"1"
+				"antialias" 	"0"
 			}
 		}
 
@@ -1820,7 +1820,7 @@ Scheme
 				"name"			"Trebuchet MS"
 				"tall"			"14"
 				"weight"		"900"
-				"antialias" 	"1"
+				"antialias" 	"0"
 			}
 		}
 
@@ -1832,7 +1832,7 @@ Scheme
 				"tall"			"10"
 				"weight"		"600"
 				"additive"		"0"
-				"antialias" 	"1"
+				"antialias" 	"0"
 			}
 		}
 		"ImportToolSmallest"
@@ -1843,7 +1843,7 @@ Scheme
 				"tall"			"10"
 				"weight"		"500"
 				"additive"		"0"
-				"antialias" 	"1"
+				"antialias" 	"0"
 			}
 		}
 
@@ -1899,7 +1899,7 @@ Scheme
 				"tall"			"10"
 				"weight"		"500"
 				"additive"		"0"
-				"antialias" 	"1"
+				"antialias" 	"0"
 			}
 		}
 		"ItemFontNameSmall"
@@ -1910,7 +1910,7 @@ Scheme
 				"tall"			"12"
 				"weight"		"500"
 				"additive"		"0"
-				"antialias" 	"1"
+				"antialias" 	"0"
 			}
 		}
 		"ItemFontNameLarge"
@@ -1921,7 +1921,7 @@ Scheme
 				"tall"			"14"
 				"weight"		"500"
 				"additive"		"0"
-				"antialias" 	"1"
+				"antialias" 	"0"
 			}
 		}
 		"ItemFontNameLarger"
@@ -1929,10 +1929,10 @@ Scheme
 			"1"
 			{
 				"name"			"Trebuchet MS"
-				"tall"			"18"
-				"weight"		"500"
+				"tall"			"22"
+				//"weight"		"500"
 				"additive"		"0"
-				"antialias" 	"1"
+				"antialias" 	"0"
 			}
 		}
 		"ItemFontAttribSmallest"
@@ -1940,18 +1940,18 @@ Scheme
 			"1"
 			{
 				"name"			"Trebuchet MS"
-				"tall"			"10"
+				"tall"			"12"
 				"weight"		"500"
 				"additive"		"0"
-				"antialias" 	"1"
+				"antialias" 	"0"
 			}
 		}
-		ItemFontAttribSmallv2
+		ItemFontAttribSmallv2 //??
 		{
 			"1"
 			{
 				"name"			"Trebuchet MS"
-				"tall"			"10"
+				"tall"			"14"
 				"antialias"		"0"
 				"weight"		"500"
 			}
@@ -1961,21 +1961,21 @@ Scheme
 			"1"
 			{
 				"name"			"Trebuchet MS"
-				"tall"			"10"
+				"tall"			"14"
 				"weight"		"500"
 				"additive"		"0"
-				"antialias" 	"1"
+				"antialias" 	"0"
 			}
 		}
-		"ItemFontAttribLarge"
+		"ItemFontAttribLarge" //item hover in backpack text something
 		{
 			"1"
 			{
 				"name"			"Trebuchet MS"
-				"tall"			"12"
+				"tall"			"16"
 				"weight"		"500"
 				"additive"		"0"
-				"antialias" 	"1"
+				"antialias" 	"0"
 			}
 		}
 		"ItemFontAttribLarger"
@@ -1983,10 +1983,10 @@ Scheme
 			"1"
 			{
 				"name"			"Trebuchet MS"
-				"tall"			"14"
+				"tall"			"20"
 				"weight"		"500"
 				"additive"		"0"
-				"antialias" 	"1"
+				"antialias" 	"0"
 			}
 		}
 
@@ -2010,7 +2010,7 @@ Scheme
 				"weight"		"500"
 				"blur"			"3"
 				"additive"		"1"
-				"antialias" 	"1"
+				"antialias" 	"0"
 			}
 		}
 		"AchievementTracker_Desc"
@@ -2021,7 +2021,7 @@ Scheme
 				"tall"			"10"
 				"weight"		"0"
 				"additive"		"1"
-				"antialias" 	"1"
+				"antialias" 	"0"
 			}
 		}
 
@@ -2033,7 +2033,7 @@ Scheme
 				"tall"			"7"
 				"weight"		"0"
 				"additive"		"1"
-				"antialias" 	"1"
+				"antialias" 	"0"
 			}
 		}
 		"QuestObjectiveTracker_DescGlow"
@@ -2043,7 +2043,7 @@ Scheme
 				"name"			"Verdana"
 				"tall"			"7"
 				"weight"		"0"
-				"antialias" 	"1"
+				"antialias" 	"0"
 			}
 		}
 		"QuestObjectiveTracker_DescBlur"
@@ -2055,7 +2055,7 @@ Scheme
 				"weight"		"0"
 				"blur"			"3"
 				"additive"		"1"
-				"antialias" 	"1"
+				"antialias" 	"0"
 			}
 		}
 
@@ -2066,7 +2066,7 @@ Scheme
 				"name"			"Verdana"
 				"tall"			"7"
 				"weight"		"0"
-				"antialias" 	"1"
+				"antialias" 	"0"
 			}
 		}
 
@@ -2147,7 +2147,7 @@ Scheme
 			{
 				"name"			"TF2 Professor"
 				"tall"			"20"
-				"antialias" 	"1"
+				"antialias" 	"0"
 				"custom"		"1" [$OSX]
 				"weight"		"500"
 			}
@@ -2276,7 +2276,7 @@ Scheme
 				"tall"			"10"
 				"weight"		"400"
 				"additive"		"0"
-				"antialias" 	"1"
+				"antialias" 	"0"
 			}
 		}
 		"AdFont_AdText"
@@ -2297,7 +2297,7 @@ Scheme
 				"name"			"Verdana"
 				"tall"			"8"
 				"weight"		"0"
-				"antialias" 	"1"
+				"antialias" 	"0"
 			}
 		}
 
@@ -2319,7 +2319,7 @@ Scheme
 				"name"			"Trebuchet MS"
 				"tall"			"9"
 				"weight"		"400"
-				"antialias" 	"1"
+				"antialias" 	"0"
 				"additive"		"0"
 				"italic"		"1"
 			}
@@ -2380,7 +2380,7 @@ Scheme
 				"tall"			"12"
 				"weight"		"500"
 				"additive"		"0"
-				"antialias" 	"1"
+				"antialias" 	"0"
 			}
 		}
 		"ReplaySmaller"
@@ -2444,7 +2444,7 @@ Scheme
 				"tall"			"12"
 				"weight"		"500"
 				"additive"		"0"
-				"antialias" 	"1"
+				"antialias" 	"0"
 			}
 		}
 		"ReplayMedium"
@@ -2455,7 +2455,7 @@ Scheme
 				"tall"			"14"
 				"weight"		"500"
 				"additive"		"0"
-				"antialias" 	"1"
+				"antialias" 	"0"
 			}
 		}
 		"ReplayMediumBig"
@@ -2488,7 +2488,7 @@ Scheme
 				"tall"			"18"
 				"weight"		"500"
 				"additive"		"0"
-				"antialias" 	"1"
+				"antialias" 	"0"
 			}
 		}
 
@@ -2498,10 +2498,10 @@ Scheme
 			"1"
 			{
 				"name"			"Trebuchet MS"
-				"tall"			"14"
-				"weight"		"500"
+				"tall"			"18"
+				//"weight"		"500"
 				"additive"		"0"
-				"antialias" 	"1"
+				"antialias" 	"0"
 			}
 		}
 		"EconFontMedium"
@@ -2510,9 +2510,9 @@ Scheme
 			{
 				"name"			"Trebuchet MS"
 				"tall"			"24"
-				"weight"		"500"
+				//"weight"		"500"
 				"additive"		"0"
-				"antialias" 	"1"
+				"antialias" 	"0"
 			}
 		}
 
@@ -2537,7 +2537,7 @@ Scheme
 				"tall"			"10"
 				"weight"		"400"
 				"additive"		"0"
-				"antialias" 	"1"
+				"antialias" 	"0"
 			}
 		}
 
@@ -2548,7 +2548,7 @@ Scheme
 				"name"			"Trebuchet MS"
 				"tall"			"12"
 				"weight"		"500"
-				"antialias" 	"1"
+				"antialias" 	"0"
 				"custom"		"1"
 			}
 		}
@@ -2561,7 +2561,7 @@ Scheme
 				"weight"		"500"
 				"blur"			"3"
 				"additive"		"1"
-				"antialias" 	"1"
+				"antialias" 	"0"
 			}
 		}
 
@@ -2573,7 +2573,7 @@ Scheme
 				"tall"			"12"
 				"weight"		"500"
 				"additive"		"0"
-				"antialias" 	"1"
+				"antialias" 	"0"
 				"dropshadow"	"1"
 			}
 		}
@@ -2587,7 +2587,7 @@ Scheme
 				"weight"		"0"
 				"blur"			"3"
 				"additive"		"1"
-				"antialias" 	"1"
+				"antialias" 	"0"
 			}
 		}
 		"QuestMap_Small"
@@ -2598,7 +2598,7 @@ Scheme
 				"tall"			"7"
 				"weight"		"400"
 				"additive"		"0"
-				"antialias" 	"1"
+				"antialias" 	"0"
 			}
 		}
 		"QuestMap_Medium"
@@ -2609,7 +2609,7 @@ Scheme
 				"tall"			"10"
 				"weight"		"400"
 				"additive"		"0"
-				"antialias" 	"1"
+				"antialias" 	"0"
 			}
 		}
 		"QuestMap_Large"
@@ -2620,7 +2620,7 @@ Scheme
 				"tall"			"14"
 				"weight"		"400"
 				"additive"		"0"
-				"antialias" 	"1"
+				"antialias" 	"0"
 			}
 		}
 		"QuestMap_Huge"
@@ -2631,7 +2631,7 @@ Scheme
 				"tall"			"30"
 				"weight"		"400"
 				"additive"		"0"
-				"antialias" 	"1"
+				"antialias" 	"0"
 			}
 		}
 	}
