@@ -86,7 +86,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"textAlignment"	"center"
-		"font"			"HudFontSmall"
+		"font"			"BHStandard12"
 		"fgcolor"		"TanLight"
 		"bgcolor_override"	"Transparent"
 		
